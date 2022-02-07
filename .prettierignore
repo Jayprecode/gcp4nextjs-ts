@@ -1,0 +1,9 @@
+.cache
+public
+.next
+out
+.vscode
+.github
+admin
+node_modules
+server

@@ -1,0 +1,12 @@
+.next
+next.config.js
+jsconfig.json
+node_modules
+yarn.lock
+package-lock.json
+public
+out
+server
+admin
+.vscode
+.github
